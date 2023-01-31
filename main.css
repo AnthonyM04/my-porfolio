@@ -1,0 +1,15 @@
+
+
+
+body {
+    background-image: url(images/sky.jpg);
+    background-color: #108bf6;
+}
+
+h1 {
+    font-size: 75px;
+    filter: blur(0.75px);
+    font-family: "Boytoy Italic";
+    letter-spacing: -5px;
+}
+
