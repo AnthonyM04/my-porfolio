@@ -13,3 +13,12 @@ h1 {
     letter-spacing: -5px;
 }
 
+p, footer {
+    font-family: "EVA-Matisse_Classic", "EB";
+    color:aliceblue;
+}
+
+li {
+    font-family: "Planet Bubble";
+    color: greenyellow;
+}
